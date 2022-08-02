@@ -1,5 +1,5 @@
 ### A SHOPPING CART USING REACT TS ###
 ## The technologies user are
     - Material UI
-    - Sttyled Components
+    - Styled Components
     - Material UI icons
